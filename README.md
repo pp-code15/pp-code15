@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pp-code15
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Machine Learning with Python
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me pb9532883@gamil.com
 
